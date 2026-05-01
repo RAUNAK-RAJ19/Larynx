@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Large files
+*.h5
+*.hdf5
+*.wav
+*.flac
+
+# Dataset
+archive*/
+LA/
+PA/
+models/
+
+# VS Code
+.vscode/
